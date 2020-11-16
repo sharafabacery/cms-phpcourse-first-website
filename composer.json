@@ -1,0 +1,14 @@
+{
+    "name": "sharaf/cms",
+    "authors": [
+        {
+            "name": "sharafabacery",
+            "email": "52586357+sharafabacery@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "vlucas/phpdotenv": "^5.2",
+        "pusher/pusher-php-server": "^4.1"
+    }
+}
